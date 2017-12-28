@@ -1,0 +1,36 @@
+body{
+    background-image: url("../img/tausta.jpg");
+    width:664px;
+    margin:auto;
+    
+}
+#aanet{
+    width:120px;
+    height :34px;
+    float:left;
+    margin-top: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-family: 'Sigmar One', cursive;
+    font-size: 12px;
+    color: red;
+    background-color: black;
+}
+#otsikko{
+    float:left;
+    width:544px;
+    height :35px;
+    margin-top: 15px;
+    padding-top: 5px;
+    font-family: 'Sigmar One', cursive;
+    font-size: 23px;
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+#pelialusta{
+    float:left;
+    margin:auto;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px black;
+}
